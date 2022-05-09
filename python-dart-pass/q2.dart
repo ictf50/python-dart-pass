@@ -23,12 +23,6 @@ class Dog extends animal {
 
 
   @override
-  var Name;
-
-  @override
-  var Sound;
-
-  @override
   void printName() {
   
     print(My name is dog);
@@ -44,11 +38,6 @@ class Dog extends animal {
 class Cow extends animal {
 
 
-  @override
-  var Name;
-
-  @override
-  var Sound;
 
   @override
   void printName() {
